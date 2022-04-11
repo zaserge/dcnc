@@ -1,4 +1,5 @@
-## DCP name composer
+# DCP name composer
 
-### Preview 
-![](/images/dcnc.png)
+## Preview
+
+![preview image](/images/dcnc.png)
