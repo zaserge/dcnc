@@ -1,0 +1,1445 @@
+{
+    "schemaVersion": "1.0.0-beta.2",
+    "isLatestData": true,
+    "lastModified": "2021-09-28T15:29:50.000Z",
+    "data": [
+        {
+            "code": "01S",
+            "description": "01_STUDIO P.I."
+        },
+        {
+            "code": "123",
+            "contact": {
+                "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China",
+                "email": "mali@123vp.com",
+                "name": "Ma Li"
+            },
+            "description": "123 Vision Pictures"
+        },
+        {
+            "code": "3DV",
+            "description": "DEEP VISION 3D"
+        },
+        {
+            "code": "9LE",
+            "description": "9 LIGHT ENTERTAINMENT"
+        },
+        {
+            "code": "AD",
+            "contact": {
+                "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
+                "email": "bertjickty@yandex.ru",
+                "name": "Mr. Jacob E. Alexandrov"
+            },
+            "description": "ART DOYDU",
+            "url": "http://artdoydu.com"
+        },
+        {
+            "code": "ADS",
+            "description": "ALLIANCE DIGITAL STUDIOS"
+        },
+        {
+            "code": "AFG",
+            "description": "ARCHANGEL FILM GROUP"
+        },
+        {
+            "code": "AFLM",
+            "description": "A. FILM PRODUCTION"
+        },
+        {
+            "code": "AHS",
+            "contact": {
+                "address": "100 Universal City Plaza, #5183, Universal City, United States",
+                "email": "david.smutny@alphahollywoodstudios.com",
+                "name": "Milan Friedrich"
+            },
+            "description": "Alpha Hollywood Studios",
+            "url": "https://www.alphahollywoodstudios.com"
+        },
+        {
+            "code": "AI",
+            "description": "ATOMIC IMAGING, CHICAGO"
+        },
+        {
+            "code": "AK",
+            "description": "ALASTI KINO"
+        },
+        {
+            "code": "ALIB",
+            "description": "ALIBABA GROUP"
+        },
+        {
+            "code": "ALT",
+            "description": "ALTIMETER FILMS"
+        },
+        {
+            "code": "AMBI",
+            "description": "AMBI Media Group"
+        },
+        {
+            "code": "AMBL",
+            "description": "AMBLIN ENTERTAINMENT"
+        },
+        {
+            "code": "AMZN",
+            "description": "Amazon Studios"
+        },
+        {
+            "code": "ANIM",
+            "description": "ANIMASIA STUDIOS"
+        },
+        {
+            "code": "ANT",
+            "description": "ANTAVIANA FILMS"
+        },
+        {
+            "code": "AP",
+            "description": "ANNAPURNA PICTURES"
+        },
+        {
+            "code": "API",
+            "description": "ATTICUS PRODUCTIONS"
+        },
+        {
+            "code": "ARC",
+            "description": "Arctic Life Film"
+        },
+        {
+            "code": "ARP",
+            "description": "ARP"
+        },
+        {
+            "code": "ART",
+            "description": "ARTHOUSE, ZURICH"
+        },
+        {
+            "code": "ARWS",
+            "description": "AIRWESS PRODUCTIONS"
+        },
+        {
+            "code": "AS",
+            "description": "ASTRO SHAW"
+        },
+        {
+            "code": "ATF",
+            "description": "ASIA TROPICAL FILMS"
+        },
+        {
+            "code": "AVD",
+            "description": "AV-DESIGN"
+        },
+        {
+            "code": "BAQ",
+            "contact": {
+                "address": "4639 Huron Ave, San Diego, CA 92117",
+                "email": "michaelgkinsell@gmail.com",
+                "name": "Michael Kinsell"
+            },
+            "description": "Brush & Quill",
+            "url": "https://michaelsstorytime.com"
+        },
+        {
+            "code": "BBF",
+            "description": "Bad Blood Films"
+        },
+        {
+            "code": "BF",
+            "description": "BELARUSFILM"
+        },
+        {
+            "code": "BG",
+            "description": "Basement Games"
+        },
+        {
+            "code": "BH",
+            "description": "BLUMHOUSE PRODUCTIONS"
+        },
+        {
+            "code": "BHS",
+            "description": "BLACK HANGER STUDIOS"
+        },
+        {
+            "code": "BIGW",
+            "description": "Big World Cinema",
+            "url": "http://www.bigworldcinema.com/"
+        },
+        {
+            "code": "BLNK",
+            "description": "BLANKTAPE"
+        },
+        {
+            "code": "BMG",
+            "description": "BUSCH MEDIA GROUP"
+        },
+        {
+            "code": "BOS",
+            "contact": {
+                "address": "7 Weethes Cottages, Penzance, Kernow TR18 2RP",
+                "email": "hello@bosena.co.uk",
+                "name": "Denzil Monk"
+            },
+            "description": "BOSENA",
+            "url": "https://www.bosena.co.uk/"
+        },
+        {
+            "code": "BOY",
+            "description": "Bannerboy AB"
+        },
+        {
+            "code": "BRM",
+            "description": "BERRYMOUNT AUTOMATION"
+        },
+        {
+            "code": "BRW",
+            "description": "BREAKWATER STUDIOS"
+        },
+        {
+            "code": "BS",
+            "description": "BANTAM STREET"
+        },
+        {
+            "code": "BV",
+            "description": "Bertone Visuals"
+        },
+        {
+            "code": "BVF",
+            "contact": {
+                "address": "Oberstr. 99, 45134 Essen",
+                "email": "info@bigvisions.de",
+                "name": "Julius Wieler"
+            },
+            "description": "BigVisions",
+            "url": "https://www.bigvisions.de"
+        },
+        {
+            "code": "CAF",
+            "contact": {
+                "address": "Kindaruma Grove, Kindaruma Road, Nairobi",
+                "email": "cafelunafilms@gmail.com",
+                "name": "Ahmed Deen"
+            },
+            "description": "Cafe Luna Films",
+            "url": "https://www.vimeo.com/cafeluna"
+        },
+        {
+            "code": "CCC",
+            "description": "COLUMBIA COLLEGE CHICAGO"
+        },
+        {
+            "code": "CDC",
+            "description": "CDC UNITED NETWORK"
+        },
+        {
+            "code": "CF",
+            "description": "CHALIA FILMS"
+        },
+        {
+            "code": "CFSL",
+            "description": "CAFETICO FILMS"
+        },
+        {
+            "code": "CFV",
+            "description": "CONSTANTIN FILM VERLEIH"
+        },
+        {
+            "code": "CJM",
+            "description": "CINEJOY MOVIES GMBH",
+            "obsolete": true,
+            "obsoletedBy": [
+                "CJOY"
+            ]
+        },
+        {
+            "code": "CJOY",
+            "description": "CINEJOY MOVIES GMBH",
+            "url": "http://www.cinejoymovies.ch"
+        },
+        {
+            "code": "CL",
+            "description": "CINEMALIVE"
+        },
+        {
+            "code": "CLF",
+            "description": "Cinelume Postproduction"
+        },
+        {
+            "code": "CLS",
+            "description": "CINEMA LIBRE STUDIO"
+        },
+        {
+            "code": "CNRA",
+            "description": "CINERAMA"
+        },
+        {
+            "code": "COP",
+            "description": "COLOSO POST STUDIO"
+        },
+        {
+            "code": "CPR",
+            "description": "ColorPRO"
+        },
+        {
+            "code": "CPSB",
+            "description": "CURRENT PICTURES"
+        },
+        {
+            "code": "CRL",
+            "contact": {
+                "address": "1 N. College St, Northfield, MN 55057 USA",
+                "email": "pbernhardt@carleton.edu",
+                "name": "Paul Bernhardt"
+            },
+            "description": "Carleton College",
+            "url": "https://www.carleton.edu/cinema-media-studies/"
+        },
+        {
+            "code": "CRO",
+            "description": "CROMOSOMA, S.A."
+        },
+        {
+            "code": "CRV",
+            "description": "CRISTIANA Video"
+        },
+        {
+            "code": "CUP",
+            "description": "cineUP",
+            "url": "https://www.cineup.de"
+        },
+        {
+            "code": "DA",
+            "description": "Dreamworks"
+        },
+        {
+            "code": "DBDK",
+            "description": "DIGIBIO.DK"
+        },
+        {
+            "code": "DCK",
+            "description": "DCI KOMPETENZZENTRUM"
+        },
+        {
+            "code": "DDF",
+            "contact": {
+                "address": "Theodor Christensens Pl. 1, 1437 København, Copenhagen, Denmark",
+                "email": "ask@filmskolen.dk",
+                "name": "Mr. Anders Svanborg / Mr. Peter Posgaard"
+            },
+            "description": "The National Film School of Denmark",
+            "url": "http://filmskolen.dk/"
+        },
+        {
+            "code": "DEFI",
+            "description": "DELPHI FILMVERLEIH GMBH"
+        },
+        {
+            "code": "DFS",
+            "description": "DUALFILM, STUTTGART"
+        },
+        {
+            "code": "DGM",
+            "contact": {
+                "address": "Via Carlo Pisacane 5, Pescara, Italy",
+                "email": "luca@digitmovies.com",
+                "name": "Luca Di Silverio"
+            },
+            "description": "Digitmovies Alternative Entertainment",
+            "url": "https://www.digitmovies.com"
+        },
+        {
+            "code": "DGWF",
+            "description": "Dogwolf, UK *No Registry request"
+        },
+        {
+            "code": "DI",
+            "description": "Disney"
+        },
+        {
+            "code": "DLB",
+            "description": "Dolby Laboratories"
+        },
+        {
+            "code": "DVF",
+            "description": "DUAL V FILMS"
+        },
+        {
+            "code": "EAG",
+            "description": "EAGLE PICTURES"
+        },
+        {
+            "code": "EDEL",
+            "description": "EDEL GERMANY GMBH"
+        },
+        {
+            "code": "EDF",
+            "description": "Early Day Films"
+        },
+        {
+            "code": "ELA",
+            "description": "ELAMEDIA"
+        },
+        {
+            "code": "ELO",
+            "description": "ELO FILM SCHOOL HELSINKI"
+        },
+        {
+            "code": "EP",
+            "description": "ELEVATION PICTURES"
+        },
+        {
+            "code": "EQF",
+            "description": "EQUINOXE FILMS"
+        },
+        {
+            "code": "EXC",
+            "description": "THE EXCHANGE"
+        },
+        {
+            "code": "FB",
+            "description": "FILM BILDER"
+        },
+        {
+            "code": "FE",
+            "description": "FATHOM EVENTS"
+        },
+        {
+            "code": "FF",
+            "description": "FOCUS FEATURES"
+        },
+        {
+            "code": "FFF",
+            "description": "Felix Fahle Film"
+        },
+        {
+            "code": "FG",
+            "description": "FEEL GOOD ENTERTAINMENT"
+        },
+        {
+            "code": "FHDO",
+            "description": "FACHHOCHSCHULE DORTMUND"
+        },
+        {
+            "code": "FIN",
+            "description": "FINAS PRODUCTIONS"
+        },
+        {
+            "code": "FINK",
+            "description": "Film Ink"
+        },
+        {
+            "code": "FMM",
+            "description": "FILMMUSEUM MÜNCHEN"
+        },
+        {
+            "code": "FRE",
+            "description": "FRENETIC FILMS"
+        },
+        {
+            "code": "FTC",
+            "contact": {
+                "address": "Via di Sant'Erasmo, 2 - 00184, Rome, Italy",
+                "email": "paolo.menicucci@fotocinema.com",
+                "name": "Paolo Menicucci"
+            },
+            "description": "Fotocinema",
+            "url": "http://www.fotocinema.com"
+        },
+        {
+            "code": "FU",
+            "description": "SOFT Falmouth University UK"
+        },
+        {
+            "code": "FW",
+            "description": "FOCUS WORLD"
+        },
+        {
+            "code": "FX",
+            "description": "FOX SEARCHLIGHT"
+        },
+        {
+            "code": "FXS",
+            "description": "Fox Star"
+        },
+        {
+            "code": "FYF",
+            "description": "Firefly Films",
+            "url": "https://www.fireflyfilms.co.nz"
+        },
+        {
+            "code": "FYM",
+            "contact": {
+                "address": "Calle Princesa, 18, 1ro",
+                "email": "rhernandez@fym.tv",
+                "name": "Rosana Hernández"
+            },
+            "description": "Free Your Mind",
+            "url": "http://www.fym.tv"
+        },
+        {
+            "code": "FZ",
+            "description": "FRENZI FILMS"
+        },
+        {
+            "code": "GAME",
+            "description": "Game Theory Films"
+        },
+        {
+            "code": "GAP",
+            "description": "G.A.P. Entertainment",
+            "url": "https://www.gap-entertainment.co.uk/"
+        },
+        {
+            "code": "GB",
+            "description": "GRAND BRILLIANCE"
+        },
+        {
+            "code": "GCS",
+            "contact": {
+                "address": "6330 Miller Road, Brecksville, Ohio 44236 USA",
+                "email": "Mark@garagecreativestudios.com",
+                "name": "Mark Hamer"
+            },
+            "description": "Garage Creative Studios",
+            "url": "https://www.garagecreativestudios.com"
+        },
+        {
+            "code": "GDFF",
+            "contact": {
+                "address": "Waly Piastowskie24/19 80-855 Gdansk, Poland",
+                "email": "stowedufilm@gmail.com",
+                "name": "Jacek Borzych"
+            },
+            "description": "Gdansk DocFilm Festival",
+            "url": "https://gdff.pl/"
+        },
+        {
+            "code": "GKID",
+            "contact": {
+                "address": "225 Broadway, Suite 2610, New York, New York 10007",
+                "email": "lyle@gkids.com",
+                "name": "Lyle Zanca"
+            },
+            "description": "GKIDS, Inc.",
+            "url": "https://www.gkids.com/"
+        },
+        {
+            "code": "GPI",
+            "description": "GOLAN STUDIOS, CHICAGO"
+        },
+        {
+            "code": "GR",
+            "description": "GRAMERCY PICTURES"
+        },
+        {
+            "code": "GSA",
+            "contact": {
+                "address": "ul. Łąkowa 35/38, 80-769 Gdańsk, Poland",
+                "email": "biuro@g-s.pl",
+                "name": "Małgorzata Treselj"
+            },
+            "description": "GS ANIMATION Sp. z o.o., GRUPA SMACZNEGO SP.K.",
+            "url": "https://g-s.pl/"
+        },
+        {
+            "code": "GSF",
+            "description": "Gdynia Film School"
+        },
+        {
+            "code": "GTF",
+            "contact": {
+                "address": "Labråten 81, 1614 Fredrikstad, Norway",
+                "email": "anders@goldentouchfilm.com",
+                "name": "Andy Pett"
+            },
+            "description": "Golden Touch Film",
+            "url": "https://www.goldentouchfilm.com"
+        },
+        {
+            "code": "HBO",
+            "description": "Home Box Office"
+        },
+        {
+            "code": "HF",
+            "description": "HEIMATFILM"
+        },
+        {
+            "code": "HFF",
+            "description": "HFF KONRAD WOLF"
+        },
+        {
+            "code": "HOJA",
+            "contact": {
+                "address": "Muradiye Mah. Göknar Sok. 28/24 Beşiktaş İstanbul, Turkey",
+                "email": "dastan@gmail.com",
+                "name": "Mr. Soner Daştan"
+            },
+            "description": "Hoja",
+            "url": "https://www.linkedin.com/in/dastan/"
+        },
+        {
+            "code": "HOOD",
+            "description": "Hood River Entertainment"
+        },
+        {
+            "code": "HOOK",
+            "description": "STUDIO HOOK"
+        },
+        {
+            "code": "HSAL",
+            "description": "Homesick Angel Ltd"
+        },
+        {
+            "code": "HSLU",
+            "description": "HOCHSCHULE LUZERN"
+        },
+        {
+            "code": "HULU",
+            "contact": {
+                "address": "2500 Broadway 2nd Floor, Santa Monica, CA",
+                "email": "Mike.Radford@disney.com",
+                "name": "Mike Radford"
+            },
+            "description": "Hulu",
+            "url": "https://hulu.com"
+        },
+        {
+            "code": "ICON",
+            "description": "ICON ENTERTAINMENT"
+        },
+        {
+            "code": "IFC",
+            "description": "IFC FILMS"
+        },
+        {
+            "code": "IFI",
+            "description": "Italia Film International"
+        },
+        {
+            "code": "IFS",
+            "description": "IFS INTERNATIONALE FILMSCHULE KÖLN GMBH"
+        },
+        {
+            "code": "ILP",
+            "description": "INNERLENS PRODUCTIONS"
+        },
+        {
+            "code": "IMG",
+            "description": "IMAGINASTUDIO"
+        },
+        {
+            "code": "IMO",
+            "description": "INFINATE MOTION"
+        },
+        {
+            "code": "IMPR",
+            "description": "Imprudencia"
+        },
+        {
+            "code": "INCN",
+            "contact": {
+                "address": "Russia, Moscow, Leningradskiy pr-r, 47",
+                "email": "y.mamaev@incine.ru",
+                "name": "Yuri Mamaev"
+            },
+            "description": "incine",
+            "url": "http://www.incine.ru"
+        },
+        {
+            "code": "IND",
+            "description": "INDEPENDENT PICTURES"
+        },
+        {
+            "code": "INDI",
+            "description": "Unspecified Independent Film Studio"
+        },
+        {
+            "code": "IRP",
+            "description": "INFINITY ROAD PICTURES"
+        },
+        {
+            "code": "IRU",
+            "description": "IRUSOIN"
+        },
+        {
+            "code": "JAG",
+            "description": "JAGUAR FILMS PRODUCTIONS"
+        },
+        {
+            "code": "JC",
+            "description": "JC Film Consultancy Ltd"
+        },
+        {
+            "code": "JOMA",
+            "description": "JOMA FILMS"
+        },
+        {
+            "code": "KCP",
+            "description": "KINO CYFROWE"
+        },
+        {
+            "code": "KHH",
+            "description": "Kinemathek Hamburg"
+        },
+        {
+            "code": "KHM",
+            "description": "KUNSTHOCHSCHULE FÜR MEDIEN"
+        },
+        {
+            "code": "KIP",
+            "description": "KINO-I PICTURES"
+        },
+        {
+            "code": "KIS",
+            "description": "Kismet",
+            "url": "http://www.kismetproductions.com.au"
+        },
+        {
+            "code": "KMP",
+            "description": "Kominek Motion Pictures",
+            "url": "https://kominek.ca"
+        },
+        {
+            "code": "LA",
+            "description": "LOCAL ACQUISITION"
+        },
+        {
+            "code": "LANT",
+            "description": "Lantern Entertainment"
+        },
+        {
+            "code": "LEG",
+            "description": "LEGENDE DISTRIBUTION"
+        },
+        {
+            "code": "LEO",
+            "contact": {
+                "address": "Taunusstraße 21-23, 80807 Munich, Germany",
+                "email": "linda.ellwanger@leoninestudios.com",
+                "name": "Mrs. Linda Ellwanger"
+            },
+            "description": "LEONINE Distribution GmbH",
+            "url": "https://www.leoninedistribution.com/"
+        },
+        {
+            "code": "LFLM",
+            "description": "LUCAS FILMS"
+        },
+        {
+            "code": "LIFT",
+            "description": "LIAISON OF INDEPENDENT FILMMAKERS OF TORONTO"
+        },
+        {
+            "code": "LION",
+            "description": "LIONS GATE"
+        },
+        {
+            "code": "LITV",
+            "description": "LITVINSIGHT PRODUCTIONS"
+        },
+        {
+            "code": "LN36",
+            "description": "LINE 36 STUDIO"
+        },
+        {
+            "code": "LOC",
+            "description": "LOCOMOTIVE PRODUCTIONS (LATVIA)"
+        },
+        {
+            "code": "LOK",
+            "description": "LOOKNOW"
+        },
+        {
+            "code": "LOMO",
+            "description": "LOMOTION AG"
+        },
+        {
+            "code": "LP",
+            "description": "LEGENDARY PICTURES"
+        },
+        {
+            "code": "LSNP",
+            "description": "La Sombra Negra Producciones"
+        },
+        {
+            "code": "LSR",
+            "description": "LASERFILM CINE Y VÍDEO, SL"
+        },
+        {
+            "code": "LVLF",
+            "description": "Level Films"
+        },
+        {
+            "code": "LVT",
+            "description": "LVT"
+        },
+        {
+            "code": "MAD",
+            "description": "Madman Entertainment"
+        },
+        {
+            "code": "MAJ",
+            "description": "Majestic Filmverleih GmbH"
+        },
+        {
+            "code": "MAM",
+            "description": "Moving Adventures Medien GmbH"
+        },
+        {
+            "code": "MAX",
+            "description": "MAXIWORKS PRODUCTIONS"
+        },
+        {
+            "code": "MH",
+            "description": "MILKHAUS"
+        },
+        {
+            "code": "MI",
+            "description": "METRO INTERNATIONAL"
+        },
+        {
+            "code": "MM",
+            "description": "Millennium Media",
+            "url": "https://millennium-media.net/"
+        },
+        {
+            "code": "MMG",
+            "description": "MOMOTION GMBH"
+        },
+        {
+            "code": "MMP",
+            "description": "MAGNA MANA PRODUCTION"
+        },
+        {
+            "code": "MOM",
+            "description": "MOMENTUM PICTURES"
+        },
+        {
+            "code": "MOP",
+            "description": "MODO OPERANTE PRODUCOES"
+        },
+        {
+            "code": "MOTL",
+            "description": "Motlys",
+            "url": "https://www.motlys.com"
+        },
+        {
+            "code": "MRMX",
+            "description": "MIRAMAX"
+        },
+        {
+            "code": "MRV",
+            "description": "MARVEL"
+        },
+        {
+            "code": "MSLW",
+            "contact": {
+                "address": "PO Box 7201, Warringah Mall NSW 2100, Sydney, Australia",
+                "email": "info@maslowentertainment.com",
+                "name": "Alex Taylor"
+            },
+            "description": "Maslow Entertainment",
+            "url": "http://www.maslowentertainment.com"
+        },
+        {
+            "code": "MSVP",
+            "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
+        },
+        {
+            "code": "MU",
+            "contact": {
+                "address": "7 Newburgh St, Carnaby, London W1F 7RB, UK",
+                "email": "lnawrocka@mubi.com",
+                "name": "Lena Nawrocka"
+            },
+            "description": "MUBI Releases",
+            "url": "https://mubi.com/"
+        },
+        {
+            "code": "MZTR",
+            "contact": {
+                "address": "Kodrigktonos 21, 10434, Athens,  GREECE",
+                "email": "mzeis@trianon.gr",
+                "name": "Michael Zeis"
+            },
+            "description": "FILMCENTER TRIANON",
+            "url": "http://www.trianon.gr/v1/"
+        },
+        {
+            "code": "NDG",
+            "description": "NDG Studios"
+        },
+        {
+            "code": "NET",
+            "description": "NETFLIX"
+        },
+        {
+            "code": "NFI",
+            "contact": {
+                "address": "51/A Budakeszi street, Budapest, Hungary 1021",
+                "email": "polyak.janos@nfi.hu",
+                "name": "Mr. Janos Polyak"
+            },
+            "description": "National Film Institute Filmlab",
+            "url": "http://www.filmlab.hu"
+        },
+        {
+            "code": "NIM",
+            "description": "NIMIC PRODUCTIONS"
+        },
+        {
+            "code": "NLTS",
+            "description": "Northern Lights"
+        },
+        {
+            "code": "NOAH",
+            "description": "Noah Media Group"
+        },
+        {
+            "code": "NP",
+            "contact": {
+                "address": "11 S. Main Street Dayton, OH 45458",
+                "email": "nicheproductions@nicheproductions.com",
+                "name": "Allen Farst"
+            },
+            "description": "Niche Productions",
+            "url": "https://www.nicheproductions.com"
+        },
+        {
+            "code": "NS",
+            "description": "NORRIS STUDIOS"
+        },
+        {
+            "code": "NT",
+            "description": "NEW LINE"
+        },
+        {
+            "code": "NTS",
+            "contact": {
+                "address": "Pastorenstraße 16, 20459 Hamburg, Germany",
+                "email": "info@notsold.gratis",
+                "name": "Henriette Ahrens"
+            },
+            "description": "notsold GmbH",
+            "url": "https://notsold.gratis"
+        },
+        {
+            "code": "O2",
+            "description": "O2 FILMES"
+        },
+        {
+            "code": "OCTP",
+            "contact": {
+                "address": "Chavailles 04420 Prads Haute Bléone, France",
+                "email": "octopuceproduction@outlook.fr",
+                "name": "Mme. Nelly KARS"
+            },
+            "description": "Octopuce Production",
+            "url": "https://octopuceproduction.fr"
+        },
+        {
+            "code": "ONE",
+            "description": "ONE FILMVERLEIH",
+            "url": "https://one-filmverleih.de"
+        },
+        {
+            "code": "ORG",
+            "contact": {
+                "address": "P.O. Box 94, North Reading, MA 01864",
+                "email": "jbird@oceanicresearch.org",
+                "name": "Jonathan Bird"
+            },
+            "description": "Oceanic Research Group, Inc.",
+            "url": "http://www.oceanicresearch.org"
+        },
+        {
+            "code": "OSCP",
+            "description": "OSCILLOSCOPE LABORATORIES"
+        },
+        {
+            "code": "OTA",
+            "description": "FOX ATOMIC"
+        },
+        {
+            "code": "OTL",
+            "description": "OTL Releasing"
+        },
+        {
+            "code": "OVSP",
+            "description": "OVERSPIL (DK)"
+        },
+        {
+            "code": "PAT",
+            "description": "PATHE DISTRIBUTION"
+        },
+        {
+            "code": "PC",
+            "description": "Paramount"
+        },
+        {
+            "code": "PEAK",
+            "description": "PEAK MEDIA"
+        },
+        {
+            "code": "PICH",
+            "description": "PICTUREHOUSE"
+        },
+        {
+            "code": "PIF",
+            "description": "PIFFL MEDIEN"
+        },
+        {
+            "code": "PINK",
+            "description": "PINK APPLE FILM"
+        },
+        {
+            "code": "PLAY",
+            "contact": {
+                "address": "Türkenstraße 89, 80799 Munich, Germany",
+                "email": "ws_material@playmaker.de",
+                "name": "Julian Weisser"
+            },
+            "description": "The Playmaker Munich ",
+            "url": "https://www.playmaker.de"
+        },
+        {
+            "code": "PLNK",
+            "description": "Plank Film",
+            "url": "http://plankfilm.ee"
+        },
+        {
+            "code": "PMF",
+            "description": "Productora Multimedia Flash"
+        },
+        {
+            "code": "POLO",
+            "description": "POLO FILM (DK)"
+        },
+        {
+            "code": "PRL",
+            "contact": {
+                "address": "Dominikańska 9/5, 02-738 Warsaw, Poland",
+                "email": "lukasz@prl.com.pl",
+                "name": "Mr. Łukasz Rąb"
+            },
+            "description": "PRL STUDIO",
+            "url": "https://prl.com.pl/en/"
+        },
+        {
+            "code": "PSR",
+            "description": "Paolo Sodi"
+        },
+        {
+            "code": "PSS",
+            "description": "PRETTY SWEET"
+        },
+        {
+            "code": "PV",
+            "description": "Paramount Vantage"
+        },
+        {
+            "code": "PW",
+            "description": "PRIMEWORKS"
+        },
+        {
+            "code": "PWSF",
+            "description": "The Polish National Film, Television and Theatre School in Lodz"
+        },
+        {
+            "code": "PXR",
+            "description": "PIXAR"
+        },
+        {
+            "code": "R29",
+            "description": "REFINERY29"
+        },
+        {
+            "code": "RAM",
+            "description": "RAM ENTERTAINMENT"
+        },
+        {
+            "code": "RBMH",
+            "description": "Red Bull Media House"
+        },
+        {
+            "code": "REC",
+            "description": "RECYCLED TV"
+        },
+        {
+            "code": "RED",
+            "description": "RED COMMUNICATIONS"
+        },
+        {
+            "code": "REL",
+            "description": "IM GLOBAL"
+        },
+        {
+            "code": "RF",
+            "description": "RAIN FILMS"
+        },
+        {
+            "code": "RFY",
+            "description": "roses for you film"
+        },
+        {
+            "code": "RIAL",
+            "description": "Rialto Distribution"
+        },
+        {
+            "code": "RIT",
+            "description": "RITCS (Royal Institute for Theatre, Cinema and Sound)"
+        },
+        {
+            "code": "RLD",
+            "description": "REALD"
+        },
+        {
+            "code": "ROC",
+            "description": "ROCK THE FILM"
+        },
+        {
+            "code": "RP",
+            "description": "ROGUE PICTURES"
+        },
+        {
+            "code": "RSS",
+            "description": "RED SKY STUDIOS"
+        },
+        {
+            "code": "RTA",
+            "description": "RELITA"
+        },
+        {
+            "code": "S4U",
+            "description": "BGProjets Sub4u"
+        },
+        {
+            "code": "SA",
+            "description": "SCREEN ATTRACTIONS"
+        },
+        {
+            "code": "SABL",
+            "contact": {
+                "address": "4/1-49, Ammosov str., Yakutsk, Sakha Republic, Russia",
+                "email": "newerykt@gmail.com",
+                "name": "Mr. Stepan Burnashev"
+            },
+            "description": "Saidam Baryl",
+            "url": "https://www.youtube.com/user/MrNewerykt"
+        },
+        {
+            "code": "SAF",
+            "description": "SIERRA/AFFINITY"
+        },
+        {
+            "code": "SB",
+            "description": "SHOWBOX"
+        },
+        {
+            "code": "SBF",
+            "description": "SOAPBOX FILMS"
+        },
+        {
+            "code": "SC",
+            "description": "STUDIOCANAL"
+        },
+        {
+            "code": "SDM",
+            "contact": {
+                "address": "2900 Olympic Blvd, Santa Monica CA 90404 USA",
+                "email": "mmiller@skydance.com",
+                "name": "Max Miller"
+            },
+            "description": "Skydance Media",
+            "url": "https://skydance.com"
+        },
+        {
+            "code": "SEV",
+            "description": "Seville International"
+        },
+        {
+            "code": "SF",
+            "contact": {
+                "address": "45, Lenin ave, Yakutsk, Sakha Republic, Russia",
+                "email": "bertjickty@yandex.ru",
+                "name": "Mr. Jacob E. Alexandrov"
+            },
+            "description": "SakhaFilm",
+            "url": "https://sakhafilm.ru/"
+        },
+        {
+            "code": "SKOP",
+            "description": "SKOP PRODUCTIONS"
+        },
+        {
+            "code": "SKT",
+            "description": "SKT INTERNATIONAL"
+        },
+        {
+            "code": "SLB",
+            "contact": {
+                "address": "No. 25, Jalan Ceri 6/5, The Cherry III, Bandar Hillpark, 42300, Bandar Puncak Alam, Selangor, Malaysia",
+                "email": "shawnabbarow@gmail.com",
+                "name": "Shawn Abbarow"
+            },
+            "description": "Warriors Entertainment"
+        },
+        {
+            "code": "SLP",
+            "description": "Searchlight Pictures"
+        },
+        {
+            "code": "SM",
+            "description": "SUHAN MOVIES"
+        },
+        {
+            "code": "SNP",
+            "contact": {
+                "address": "Ernst-Augustin-Straße 12, 12489 Berlin, Germany",
+                "email": "simon@shootnpost.de",
+                "name": "Mr. Veroneg"
+            },
+            "description": "Shoot'n'Post",
+            "url": "http://www.shootnpost.de"
+        },
+        {
+            "code": "SOLS",
+            "description": "Solstice Studios"
+        },
+        {
+            "code": "SOMA",
+            "description": "SOMAFILM"
+        },
+        {
+            "code": "SPE",
+            "description": "SONY PICTURES ENTERTAINMENT"
+        },
+        {
+            "code": "SPNC",
+            "description": "Studio Ponoc - Tokyo"
+        },
+        {
+            "code": "SPOO",
+            "contact": {
+                "address": "Le Chesnay, 22130 Languenan France",
+                "email": "contact@spoonprod.com",
+                "name": "Simon Guyomard"
+            },
+            "description": "Spoon Productions",
+            "url": "http://www.spoonprod.com"
+        },
+        {
+            "code": "SPOT",
+            "description": "SPOT ON DISTRIBUTION"
+        },
+        {
+            "code": "SSM",
+            "description": "Salem Social Media",
+            "url": "https://salemsocial.kz/"
+        },
+        {
+            "code": "ST10",
+            "description": "Studio 10 Filmes"
+        },
+        {
+            "code": "STIN",
+            "description": "STOUTLIGHT INCORPORATED"
+        },
+        {
+            "code": "STKA",
+            "contact": {
+                "address": "Germany, Friedrich-Engels-Straße 22, 14473 Potsdam",
+                "email": "mark.uriona@studio-kalliope.de",
+                "name": "Maria Kling"
+            },
+            "description": "Studio Kalliope",
+            "url": "https://www.studio-kalliope.de/"
+        },
+        {
+            "code": "STOR",
+            "description": "Stories AG"
+        },
+        {
+            "code": "STX",
+            "description": "STX ENTERTAINMENT"
+        },
+        {
+            "code": "SUM",
+            "description": "SUMMIT ENTERTAINMENT"
+        },
+        {
+            "code": "T25P",
+            "description": "TAKE 25 PICTURES"
+        },
+        {
+            "code": "TCF",
+            "description": "20th Century Fox"
+        },
+        {
+            "code": "TCP",
+            "description": "The Chimney Pot"
+        },
+        {
+            "code": "TCS",
+            "description": "20th Century Studios"
+        },
+        {
+            "code": "TDFC",
+            "description": "Te Digital Factory Ltd."
+        },
+        {
+            "code": "TENC",
+            "description": "Tencent Pictures",
+            "url": "https://www.tencent.com/en-us/business.html"
+        },
+        {
+            "code": "TGF",
+            "description": "Ted Green Films"
+        },
+        {
+            "code": "TMN",
+            "contact": {
+                "address": "10 Addison Road, Marrickville NSW 2204, Sidney Australia",
+                "email": "kirstin@silvvertrak.com.au",
+                "name": "Kirstin Farrugia"
+            },
+            "description": "Transmission Films",
+            "url": "https://www.transmissionfilms.com.au/"
+        },
+        {
+            "code": "TMP",
+            "description": "Trino Motion Pictures"
+        },
+        {
+            "code": "TOB",
+            "description": "Tobis Film GmbH"
+        },
+        {
+            "code": "TRCL",
+            "description": "TREACLE LIMITED (HK)"
+        },
+        {
+            "code": "TRCO",
+            "description": "The Reset Collective"
+        },
+        {
+            "code": "TRE",
+            "description": "Trench Enertainment"
+        },
+        {
+            "code": "TRIG",
+            "description": "TRIGON-FILM"
+        },
+        {
+            "code": "TSS",
+            "description": "The Solid State"
+        },
+        {
+            "code": "UFOH",
+            "description": "UFOH! AS"
+        },
+        {
+            "code": "UIG",
+            "description": "UIGIG ENTERTAINMENT (SPAIN)"
+        },
+        {
+            "code": "UMBE",
+            "description": "Umbrella Entertainment"
+        },
+        {
+            "code": "UP",
+            "description": "UNIVERSAL PICTURES"
+        },
+        {
+            "code": "UPI",
+            "description": "UNION PICTURES"
+        },
+        {
+            "code": "URT",
+            "description": "Urtext Film Productions"
+        },
+        {
+            "code": "UTM",
+            "description": "U2 MEDIA"
+        },
+        {
+            "code": "UTOP",
+            "description": "Utopia"
+        },
+        {
+            "code": "VE",
+            "description": "Village Entertainment"
+        },
+        {
+            "code": "VER",
+            "description": "VERACITY PRODUCTIONS"
+        },
+        {
+            "code": "VES",
+            "description": "VESTRON PICTURES",
+            "url": "https://vestron.pictures"
+        },
+        {
+            "code": "VEX",
+            "description": "VIRTUAL EXPERIENCE"
+        },
+        {
+            "code": "VF",
+            "contact": {
+                "address": "140 Havemeyer Street, Brooklyn, NY USA",
+                "email": "Michael.butler@dolby.com",
+                "name": "Michael Butler"
+            },
+            "description": "Visit Films",
+            "url": "https://www.visitfilms.com"
+        },
+        {
+            "code": "VFS",
+            "description": "VFS FILMS"
+        },
+        {
+            "code": "VHE",
+            "contact": {
+                "address": "Postbus 146, 3360 AC Sliedrecht, Netherlands",
+                "email": "joris@vanhoorne.com",
+                "name": "Joris Gootjes"
+            },
+            "description": "Van Hoorne Entertainment",
+            "url": "https://www.vanhoorne.com"
+        },
+        {
+            "code": "VIC",
+            "description": "VICTORY STUDIOS"
+        },
+        {
+            "code": "WC",
+            "description": "WEINSTEIN CO."
+        },
+        {
+            "code": "WR",
+            "description": "WARNER BROS."
+        },
+        {
+            "code": "XM",
+            "description": "MGM"
+        },
+        {
+            "code": "XYZF",
+            "description": "XYZ Films"
+        },
+        {
+            "code": "ZBE",
+            "description": "Zombie Studio"
+        },
+        {
+            "code": "ZF",
+            "description": "Ustanova Zagreb film"
+        },
+        {
+            "code": "ZHDK",
+            "description": "ZÜRCHER HOCHSCHULE DER KÜNSTE"
+        },
+        {
+            "code": "ZM",
+            "description": "ZOOM-ENTERTAINMENT"
+        }
+    ]
+}

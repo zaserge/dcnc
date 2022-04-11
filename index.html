@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>DCP Naming v2</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/RobotoCondensed.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/regular.css">
+    <link rel="stylesheet" href="assets/css/solid.css">
+    <link rel="stylesheet" href="assets/css/dcnc.css">
+</head>
+
+<body style="padding: 10px;">
+    <div class="container">
+        <div class="row d-flex justify-content-end result">
+            <div class="col-10"><input type="text" id="v_result" class="v_element" name="result" value="MovieTitle_FTR_S_RU-XX_51_2K_20210101_IOP_OV">
+                <div class="alert alert-warning d-none v_element" role="alert" id="v_alert"></div>
+            </div>
+            <div class="col-1 text-end" style="opacity: 1;"><i class="far fa-clipboard fs-5 text-secondary" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="bottom" id="clipboard" title="Copy to clipboard"></i></div>
+        </div>
+        <div class="row main">
+            <div class="col main-column">
+                <div class="row">
+                    <div class="col">
+                        <h1>Movie content</h1>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="movie_title">Movie Title</label></div>
+                                    <div class="col-6"><input type="text" required="" id="v_movie_title" class="v_element" name="movie_title" placeholder="MovieTitle"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="Do not note <b>&amp;quot;3D&amp;quot;</b> unless it is part of film's title.<br><br>Words should be separated by initial caps: MovieTitle.<br><br>If film is a sequel with a numeral, add the number without a hyphen: MovieTitle2<br><br>14 characters max" data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="content_type">Content type</label></div>
+                                    <div class="col-6"><select id="v_content_type" class="v_element" name="content_type"></select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="3d">3D stereo</label></div>
+                                    <div class="col-6"><select id="v_3d" class="v_element" name="3d">
+                                            <option value="">2D content (only exists in 2D)</option>
+                                            <option value="2D">2D content (there is a 3D version though)</option>
+                                            <option value="3D">3D content</option>
+                                        </select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="vers">Version Number</label></div>
+                                    <div class="col-6"><input type="text" id="v_vers" class="v_element" name="vers"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="Content version number, if available" data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="temp">Temp version</label></div>
+                                    <div class="col-6"><input type="checkbox" id="v_temp" class="v_element" name="temp"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="Temporary version without final picture or sound." data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="prerelease">Prerelease</label></div>
+                                    <div class="col-6"><input type="checkbox" id="v_prerelease" class="v_element" name="prerelease"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="Final picture and sound, but without accessibility features." data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="chain">Chain or Event<br></label></div>
+                                    <div class="col-6"><input type="text" id="v_chain" class="v_element" name="chain"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="Name specific Theatre Chain or Event if needed (e.g. &quot;Cinemacon&quot;)" data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="lum">Luminance<br></label></div>
+                                    <div class="col-6"><input type="text" id="v_lum" class="v_element" name="lum" inputmode="numeric"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="The mastered luminance if there are multiple versions distributed" data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="fps">Frame rate</label></div>
+                                    <div class="col-6"><input type="text" id="v_fps" class="v_element" name="fps" inputmode="numeric"></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="right" title="Frame rate must be in the name when it is other than 24 fps" data-bs-html="true"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h1>Language</h1>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="audio_language">Audio Language</label></div>
+                                    <div class="col-6"><select id="v_audio_language" class="v_element" name="audio_language"></select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="sub_language">Subtitle Language</label></div>
+                                    <div class="col-6"><select id="v_sub_language" class="v_element" name="sub_language"></select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="sub_tech">Subtitle&nbsp;technique<br></label></div>
+                                    <div class="col-6"><select id="v_sub_tech" class="v_element" name="sub_tech">
+                                            <option value="1" selected="">Subtitles soft coded</option>
+                                            <option value="2">Burnt in / hard coded</option>
+                                        </select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="ccap">Closed Captions<br></label></div>
+                                    <div class="col-6"><input type="checkbox" id="v_ccap" class="v_element" name="ccap"></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="ocap">Open Captions<br></label></div>
+                                    <div class="col-6"><input type="checkbox" id="v_ocap" class="v_element" name="ocap"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h1>Territory &amp; Rating</h1>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="territory">Territory</label></div>
+                                    <div class="col-6"><select id="v_territory" class="v_element" name="territory"></select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="rating">Rating</label></div>
+                                    <div class="col-6"><select id="v_rating" class="v_element" name="rating"></select></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col main-column">
+                <div class="row">
+                    <div class="col">
+                        <h1 class="h1-left">Projection</h1>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="resolution">Resolution</label></div>
+                                    <div class="col-6"><select id="v_resolution" class="v_element" name="resolution">
+                                            <option value="2K" selected="">2K</option>
+                                            <option value="4K">4K</option>
+                                        </select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="proj_aspect">Projector Aspect Ratio<br></label></div>
+                                    <div class="col-6"><select id="v_proj_aspect" class="v_element" name="proj_aspect"></select></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="left" title="Flat:<br>1998 x 1080 = 2k<br>3996 x 2160 = 4k<br><br>Scope:<br>2048 x 858 = 2k<br>4096 x 1716 = 4k<br><br>Full Container:<br>2048 x 1080 = 2k<br>4096 x 2160 = 4k" data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="int_aspect">Interior Aspect Ratio<br></label></div>
+                                    <div class="col-6"><select id="v_int_aspect" class="v_element" name="int_aspect">
+                                            <option value="None">None - Image covers full frame</option>
+                                            <option value="133">1.33 - 4:3</option>
+                                            <option value="178">1.78 - 16:9</option>
+                                            <option value="200">2.00</option>
+                                            <option value="239">2.39</option>
+                                        </select></div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="left" title="If the image is letterboxed or pillarboxed, select the interior aspect ratio here." data-bs-html="true"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h1 class="h1-left">Audio</h1>
+                        <div class="row align-items-center flex-nowrap">
+                            <div class="col-5 label-text"><label class="col-form-label bold" for="audio_type">Audio Type</label></div>
+                            <div class="col-6"><select id="v_audio_type" class="v_element" name="audio_type"></select></div>
+                        </div>
+                        <div class="row align-items-center flex-nowrap">
+                            <div class="col-5 label-text"><label class="col-form-label" for="hear_assist">Assisted Listening Track<br></label></div>
+                            <div class="col-6"><input type="checkbox" id="v_hear_assist" class="v_element" name="hear_assist"></div>
+                        </div>
+                        <div class="row align-items-center flex-nowrap">
+                            <div class="col-5 label-text"><label class="col-form-label" for="vis_assist">Audio Description Track<br></label></div>
+                            <div class="col-6"><input type="checkbox" id="v_vis_assist" class="v_element" name="vis_assist"></div>
+                        </div>
+                        <div class="row align-items-center flex-nowrap">
+                            <div class="col-5 label-text"><label class="col-form-label" for="sign_lang">Sign Language Tack<br></label></div>
+                            <div class="col-6"><input type="checkbox" id="v_sign_lang" class="v_element" name="sign_lang"></div>
+                        </div>
+                        <div class="row align-items-center flex-nowrap">
+                            <div class="col-5 label-text"><label class="col-form-label" for="immersive">Immersive Sound<br></label></div>
+                            <div class="col-6"><select id="v_immersive" class="v_element" name="immersive"></select></div>
+                            <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="left" title="<b>ATMOS USERS:</b> Expect a change in the way Atmos content is labeled! IAB (Immersive Audio Bitstream) is the SMPTE standard for Immersive Audio. All Atmos systems can play the IAB track. Many authoring companies are planning to stop labeling <b>ATMOS</b> and using the <b>IAB</b> label only." data-bs-html="true"></i></div>
+                        </div>
+                        <div class="row align-items-center flex-nowrap">
+                            <div class="col-5 label-text"><label class="col-form-label" for="dbox">DBox Motion Control<br></label></div>
+                            <div class="col-6"><input type="checkbox" id="v_dbox" class="v_element" name="dbox"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <h1 class="h1-left">Other</h1>
+                        <div class="row">
+                            <div class="col">
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="year">Creation Date</label></div>
+                                    <div class="col-6 flex-row">
+                                        <div class="row g-0 gap p-0">
+                                            <div class="col-6"><input type="text" id="v_year" class="v_element" name="year" value="2021" inputmode="numeric"></div>
+                                            <div class="col"><input type="text" id="v_month" class="v_element" name="year" inputmode="numeric"></div>
+                                            <div class="col"><input type="text" id="v_day" class="v_element" name="year" inputmode="numeric"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="package_type">Package Type</label></div>
+                                    <div class="col-6">
+                                        <div class="row g-0 gap p-0">
+                                            <div class="col-auto"><select id="v_package_type" class="v_element" name="package_type">
+                                                    <option value="OV" selected="">Original Version</option>
+                                                    <option value="VF">Version File</option>
+                                                </select></div>
+                                            <div class="col"><input type="text" id="v_vf_vers" class="v_element" name="vf_vers"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col px-1"><i class="fas fa-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" data-bs-placement="left" title="<b>Original Version</b> contains an entire presentation and is self-contained.<br><br><b>Version File</b> supplements an Original Version and can replace parts like audio, picture or subtitles." data-bs-html="true"></i></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="studio">Studio</label></div>
+                                    <div class="col-6"><select id="v_studio" class="v_element" name="studio"></select></div>
+                                </div>
+                                <div class="row align-items-center flex-nowrap">
+                                    <div class="col-5 label-text"><label class="col-form-label" for="facility">Facility</label></div>
+                                    <div class="col-6"><select id="v_facility" class="v_element" name="facility"></select></div>
+                                </div>
+                                <div class="row align-items-center">
+                                    <div class="col-5 label-text"><label class="col-form-label bold" for="standard">DCP Standard</label></div>
+                                    <div class="col-6"><select id="v_standard" class="v_element" name="standard">
+                                            <option value="IOP">Interop</option>
+                                            <option value="SMPTE">SMPTE</option>
+                                        </select></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/dcnc.js"></script>
+</body>
+
+</html>
